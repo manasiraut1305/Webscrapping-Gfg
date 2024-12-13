@@ -1,0 +1,243 @@
+No title found
+
+Transversal Lines in geometry is defined as a line that intersects two lines at distinct points in a plane. The transversal line intersecting a pair of parallel lines is responsible for the formation of various types of angles that, include alternate interior angles, corresponding angles, and others. A transversal can intersect at least two lines that can be parallel or non-parallel.
+
+Here, in this article, we learn about Parallel Lines and Transversals, Angle Relationship Between Parallel Lines and Transversals, and others in detail.
+
+Table of Content
+
+A transversal line in geometry is a straight line that intersects two or more lines. When a transversal line intersects two lines, it creates pairs of corresponding angles, alternate interior angles, and alternate exterior angles. Understanding transversal lines is very important for the proper knowledge of the geometry. it helps to better grasp other concepts of geometry.
+
+The lines that intersect a pair of parallel line is called the transversal line. In the above added figure line 1 and 2 are parallel line and the line line which cut both 1 and 2 is called the transversal line.
+
+The lines that never meet each other in a plane are called the parallel line and the line that intersect these parallel line is called the transversal line let’s learn about them in detail.
+
+Parallel lines in Geometry are defined as a pair of lines that never meet each other in the same plane. For example, if we observe a train track the two tracks always run with each other but never intersect, this is an example of the parallel line. The image of parallel lines is added below,
+
+
+
+Transversal or Transversal Lines is any line that cuts two parallel or nonparallel lines to two different point and in this process, it creates 8 angles that are characterized into different categories that includes,
+
+The image added below shows parallel and transversal lines.
+
+
+
+The various Types of Angles that are formed by the intersection of transversal and parallel lines are,
+
+Various angles that are formed by the intersection of Parallel Lines and Transversal Lines are,
+
+Let’s learn about the same in detail.
+
+The following pairs of angles that are corresponding angles from the figure added above are,
+
+The following pairs of angles that are alternate exterior angles from the figure added above are,
+
+The following pairs of angles that are alternate interior angles from the figure added above are,
+
+The following pairs of angles that are vertically opposite angles from the figure added above are,
+
+Constructing a transversal line on a parallel line is very simple. To construct a transversal line between two parallel lines follow the the steps added below,
+
+Step 1: Take a pair of Parallel Lines (say l and m)
+
+Step 2: Draw a line (t) that cuts the first line.
+
+Step 3: Now extend the line and then make it cut the second line (m) such that it also cuts line (m) and then the line so obtained is the transversal line.
+
+The table added below shows all types of angles that are formed by a pair of parallel lines and a transversal.
+
+Pair Of Angles Formed
+
+Relation Between Angles
+
+Corresponding Angles
+
+Alternate Interior Angles
+
+Alternate Exterior Angles
+
+Vertically Opposite Angles
+
+Read More,
+
+Example 1: In Figure, if PQ || RS, ∠ MXQ = 135° and ∠ MYR = 40°, find ∠ XMY.
+
+
+
+Solution:
+
+Let’s construct a line AB parallel to line PQ, through point M. 
+
+Now, AB || PQ and PQ || RS 
+
+AB || RS || PQ
+
+∠ QXM + ∠ XMB = 180°…(Interior Angles on the Same Side of Transversal are Supplementary)
+
+∠ QXM = 135°…(given)
+
+135° + ∠ XMB = 180°
+
+∠ XMB = 45°
+
+∠ BMY = ∠ MYR…(Alternate Angles)
+
+∠ BMY = 40° 
+
+∠ XMB + ∠ BMY = 45° + 40°
+
+Therefore, ∠ XMY = 85°
+
+Example 2: In Figure, AB || CD and CD || EF. Also EA ⊥ AB. If ∠ BEF = 55°, find the values of x, y, and z.
+
+
+
+Solution: 
+
+Since,
+
+AB || CD and CD || EF
+
+AB || CD || EF
+
+EB and AE are Transversal
+
+y + 55° = 180°…(Interior Angles on the Same Side of Transversal are Supplementary)
+
+y = 180° – 55° = 125°
+
+x = y (Corresponding Angles)
+
+x = y = 125°
+
+Now, ∠ EAB + ∠ FEA = 180°…(Interior Angles on the Same Side of Transversal are Supplementary)
+
+90° + z + 55° = 180°
+
+Hence, z = 35°
+
+Example 3: In Figure, find the values of x and y and then show that AB || CD.
+
+
+
+Solution: 
+
+Here,
+
+x + 50° = 180° (Linear Pair is equal to 180°)
+
+x = 130°
+
+y = 130°  (Vertically Opposite Angles are Equal)
+
+x = y = 130° 
+
+In two parallel lines, the alternate interior angles are equal, and ∠x = ∠y
+
+Hence, this proves that alternate interior angles are equal and so, AB || CD
+
+Example 4: In Figure, if AB || CD, ∠ APQ = 50° and ∠ PRD = 127°, find x and y.
+
+
+
+Solution:
+
+Here, ∠APQ = ∠PQR…(Alternate Interior Angles)
+
+x = 50°
+
+∠APR = ∠PRD…(Alternate Interior Angles)
+
+∠APQ + ∠QPR = 127° 
+
+127° = 50°+ y
+
+y = 77°
+
+Hence, x = 50° and y = 77°
+
+Transversal in Geometry is defined as the line that interests two or more line that are in the same plane. These two lines can be parallel or intersecting.
+
+If a transversal cuts any pair of line 8 angles are formed. The image added shows 8 angles that are formed by the intersection of a transversal with a pair of parallel lines.
+
+
+
+Parallel lines are the lines that intersect never intersect and always at the same distance from each other.
+
+Transversal lines are the lines that intersected two or more lines that are in the same plane.
+
+Corresponding angles in the transversal line are two or more angles that are the same side on the transversal and they are equal.
+
+The lines that cut two or more parallel lines are called transversal lines or simply transversals. If a transversal line interscect a pair of parallel line they eight angles.
+
+• What is a Transversal Line?
+• Transversal Lines and Parallel Lines
+• Transversal Lines and Angles
+• Constructing a Transversal on Parallel Lines
+• Transversal Line Examples
+• Parallel Lines
+• Transversal Lines
+• Corresponding Angles
+• Alternate Interior Angles
+• Alternate Exterior Angles
+• Vertical Opposite Angles
+• Corresponding Angles: ∠a and ∠p, ∠d and ∠s, ∠b and ∠q, ∠c and ∠r
+• Alternate Interior Angles: ∠d and ∠q, and ∠c and ∠p 
+• Alternate Exterior Angles: ∠b and ∠s, and ∠a and ∠r 
+• Vertically Opposite Angles: ∠a and ∠c, ∠b and ∠d, ∠p and ∠r, ∠q and ∠s
+• Corresponding angles
+• Alternate Interior Angles
+• Alternate Exterior Angles
+• Vertical Angles
+• ∠a = ∠p
+• ∠b = ∠q
+• ∠d = ∠s
+• ∠c = ∠r
+• ∠a = ∠r
+• ∠b = ∠s
+• ∠d = ∠q
+• ∠c = ∠p
+• ∠a = ∠c
+• ∠b = ∠d
+• ∠p = ∠r
+• ∠q = ∠s
+• ∠a = ∠p
+• ∠b = ∠q
+• ∠d = ∠s
+• ∠c = ∠r
+• ∠a = ∠r
+• ∠b = ∠s
+• ∠d = ∠q
+• ∠c = ∠p
+• ∠a = ∠c
+• ∠b = ∠d
+• ∠p = ∠r
+• ∠q = ∠s
+• Properties of Parallel Lines
+• Parallel and Intersecting Lines
+
+**Corresponding Angles**
+**: **
+**Alternate Interior Angles**
+**:**
+**Alternate Exterior Angles**
+**:**
+**Vertically Opposite Angles**
+**:**
+**Step 1:**
+**Step 2:**
+**Step 3:**
+**Read More,**
+**Example 1: In Figure, if PQ || RS, ∠ MXQ = 135° and ∠ MYR = 40°, find ∠ XMY.**
+**Solution:**
+** ∠ XMY = 85°**
+**Example 2: In Figure, AB || CD and CD || EF. Also EA ⊥ AB. If ∠ BEF = 55°, find the values of x, y, and z.**
+**Solution: **
+**z = 35°**
+**Example 3: In Figure, find the values of x and y and then show that AB || CD.**
+**Solution: **
+**AB || CD**
+**Example 4: In Figure, if AB || CD, ∠ APQ = 50° and ∠ PRD = 127°, find x and y.**
+**Solution:**
+**x = 50° **
+**y = 77°**

@@ -1,0 +1,438 @@
+No title found
+
+Events in Probability- In Probability, an event can be defined as a set of outcomes of an experiment. In other words, an event in probability is the subset of the respective sample space. 
+
+In this article, we will learn about the Events in Probability, Types of Events in Probability, definitions, how they are classified, how the algebra of events works, etc.
+
+Table of Content
+
+
+
+An event can be defined as a set of outcomes of an experiment. 
+
+It is not always true that the expected outcome will happen every time; there is a chance that either the event will occur or not occur at all. The measurement of the occurrence of an event is known as Probability.
+
+As we know, people often use statements like “It might rain today”, “I will most probably pass the exam as the exam was not too tough” or “Most likely, he will be selected” which all are examples of probabilistic statements which people use on the daily basis. Probability is a crucial part of our everyday lives, from predicting weather patterns to making investment decisions. 
+
+This concept of events is fundamental to understanding probability theory
+
+When an experiment is performed, an outcome is expected from the experiment, and this expected outcome is known as the event in probability.
+
+A Sample Space is the set of all possible outcomes of an experiment or a random phenomenon. Sample Space is denoted by the symbol “S” and represents all the possible outcomes that can occur. An event is one of the possible outcomes, likewise, there can be more than one event (outcomes) of an experiment.
+
+For example, when flipping a coin, the sample space is {heads, tails}, because those are the only two possible outcomes. Similarly, when rolling a six-sided die, the sample space is {1, 2, 3, 4, 5, 6}, because those are the only possible outcomes.
+
+Note: Event is a subset of Sample Space.
+
+Probability is the measure of the likelihood or chance of an event occurring and can vary from 0 to 1 or it can also be expressed as a percentage varying from 0 to 100%. For example, the probability of a meeting to get postpone is 0.8 or there is an 80% chance of the meeting to postpone. There are different ways to calculate probability, depending on the nature of the event and the available information.
+
+The odds of an event occurring based on mathematical rules or assumptions is known as theoretical probability. It is computed by dividing the number of favorable outcomes by the total number of possible possibilities. For example, a fair six-sided die has a 1/6 chance of rolling a six because there is only one favorable outcome (rolling a six) out of the six possible results (rolling any number from 1 to 6).
+
+Empirical probability, on the other hand, is refer to the probability calculated based on the observations and experiments. It is also called Experimental Probability. It can be calculated by dividing the number of times the event occurred by the total number of trials or observations. For example, if we roll a six-sided die 100 times and observe that a six appears 20 times, the empirical probability of rolling a six is 20/100 or 0.2.
+
+Subjective Probability is the relative probability of an event based on the beliefs, opinions, or biases of some person about the likelihood of an event. Subjective probability is used by some experienced professionals with respect to the work at hand whenever there is a lack of information or a degree of uncertainty about the result. For example, a person with a keen interest in cricket gave a probability of 0.7 for the win by a certain team based on knowledge of the team’s performance, the opponent’s strengths and weaknesses, and other relevant factors.
+
+ It is essential to understand the difference between different types of events that can happen while performing random experiments. There are various types of events in probability which are discussed as follows:
+
+Impossible Event and Sure Event: The event with 0 probability is called the impossible event, as this event never happens. Whereas, the event with probability 1 is called the Sure Event, as this event always happens with 100% certainty.
+
+Independent Event and Dependent Event: Independent events are those in which the probability of an event remains the same, regardless of previous outcomes. Whereas, dependent events are those in which the probability of an event changes based on previous outcomes. 
+
+Learn more about, Dependent and Independent Events
+
+Simple and Compound Event: When an event consists of only one point of the sample space, this event is called a simple event and events with two or more points of the sample space, are called compound events.
+
+Mutually Exclusive Events:  Mutually exclusive events have no outcomes in common. 
+
+Exhaustive Events:  The collection of those events is exhaustive events that cover all the possible outcomes.
+
+Equally Likely Events: Equally likely events have the same probability of occurring. 
+
+Learn more about, Types of Events in Probability
+
+In probability theory, events are defined as subsets of a sample space. The union of events includes outcomes that occur in either of the events, while the intersection of events includes outcomes that occur in both events. Let’s understand both of these in detail as follows:
+
+Union of two or more events refers to the event that occurs if either of any events occurs i.e., let’s say we have two events A and B then the intersection of A and B represents the event that occurs if either A or B occurs. Union of Events A and B is denoted by 
+
+A ∪ B
+
+Let’s consider an example for an Intersection of Events, let two events be E1 = {2, 3, 4, 5} and E2 = {3, 4, 7, 8}. Also, assume that the intersection of both events is represented by E i.e., E = E1∪ E2
+
+Thus, E = E1∪ E2 = {2, 3, 4, 5, 6}
+
+The intersection of two or more events refers to the event that occurs if all of the events occur simultaneously i.e., let’s say we have two events A and B then the intersection of A and B represents the event that occurs if both A and B occur. The intersection of Events A and B is denoted by 
+
+A ∩ B
+
+Let’s consider an example for an Intersection of Events, let two events be E1 = {2, 3, 4, 5} and E2 = {3, 4, 7, 8}. Also, assume that the intersection of both events is represented by E i.e., E = E1∩ E2
+
+Thus, E = E1∩ E2 = {3, 4}
+
+Two or more sets can be combined using four different operations, union, intersection, difference, and compliment. Since events are nothing but subsets of sample space, which means they are also set by themselves. In the same manner, two or more events can be combined using these operations. Let’s consider three events A, B, and C defined over the sample space S. 
+
+For every event A, there exists another event A’, which is called a complimentary event.  It consists of all those elements which do not belong to event A. For example, in the coin-tossing experiment. Let’s say event A is defined as getting one head. 
+
+So, A = {HT, TH, HH} 
+
+The complementary A’ of event A will be consists of all the elements in the sample space which are not in event A. Thus, 
+
+A’ = {TT}
+
+
+
+The Union of two sets A and B is denoted as A ∪ B. This contains all the elements which are in either set A, set B, or both. This event A or B is defined as, 
+
+Event A or B = A ∪ B
+
+A ∪ B = {w : w ∈ A or w ∈ B}
+
+
+
+The intersection of two sets A and B is denoted as A ∩ B. This contains all the elements which are in both set A and set B. This event A and B is defined as, 
+
+Event A and B = A ∩ B
+
+A ∩ B= {w: w ∈ A and w ∈ B}
+
+
+
+The set difference A – B consists of all the elements which are in A but not in B. The events A but not B are defined as, 
+
+A but not B = A – B 
+
+A – B = A ∩ B’
+
+Where B’ is the complement of event B.
+
+
+
+We can easily find the probability of an event by following the steps discussed below,
+
+Probability = (Favourable Outcome)/(Total Outcome)
+
+Read More,
+
+Here we have provided you with a few solved sample problems on events in probability:
+
+Problem 1: A die is thrown in the game of Ludo and E1 denotes the event of getting even numbers and E2 represents the event of getting a number more than 3, Find the Set for the following events,
+
+Solution:
+
+The sample space for the die will be,
+
+S= {1, 2, 3, 4, 5, 6}
+
+Problem 2: A die is thrown and the set for the sample space obtained is, S = {1, 2, 3, 4, 5, 6}
+
+E1 is defined as the event of obtaining a number less than 5 and E2 is defined as the event of obtaining a number more than 2.
+
+Find the set for the following,
+
+Solution:
+
+Sample space will be, 
+
+S= {1, 2, 3, 4, 5, 6}
+
+Problem 3: Write the sample space for tossing three coins at once, also answer the event of 2 exactly 2 heads at a time.
+
+Solution:
+
+Tossing Three Coins the sample space is,
+
+S = {(H, H, H), (H, H, T), (H, T, H), (T, H, H), (T, T, H), (T, H, T), (H, T, T), (T, T, T)}
+
+Hence, the Sample Space Comprises 6 Possible Outcomes
+
+Event (E) for the occurrence of exactly two heads,
+
+Problem 4: Name the types of events obtained from the given below experiments,
+
+Solution:
+
+Problem 5: Sample Space of an experiment is given as,
+
+S = {10, 11, 12, 13, 14, 15, 16, 17} and the event, E is defined as all the even numbers. What will be the complementary event for E?
+
+Solution:
+
+S = {10, 11, 12, 13, 14, 15, 16, 17}
+
+E (All even numbers) = {10, 12, 14, 16}
+
+E’ (complementary of E) = {11, 13, 15, 17}
+
+Problem 6: Consider the experiment of tossing a fair coin 3 times, Event A is defined as getting all tails. What kind of event is this? 
+
+Solution: 
+
+Sample space for the coin toss will be, 
+
+S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}
+
+For the event A, 
+
+A = {TTT}
+
+This event is only mapped to one element of sample space. Thus, it is a simple event. 
+
+Problem 7: Let’s say a coin is tossed once, state whether the following statement is True or False. 
+
+“If we define an event X which means getting both heads and tails. This event will be a simple event.”
+
+Solution:
+
+When a coin it tossed, there can be only two outcomes, Heads or Tails. 
+
+S = {H, T} 
+
+Getting both Heads and Tails is not possible, thus event X is an empty set. 
+
+Thus, it is an impossible and sure event. So, this statement is False. 
+
+Problem 8: A die is rolled, and three events A, B, and C are defined below:
+
+Find A ∩ B, A ∩ B ∩ C, and A ∪ B.
+
+Solution:
+
+Sample space for die roll will be, 
+
+S = {1, 2, 3, 4, 5, 6} 
+
+For the event A, 
+
+A = {4, 5, 6}
+
+For the event B, 
+
+B = {3, 6}
+
+For the event C, 
+
+C = {1, 3, 5}
+
+A ∩ B = {4, 5, 6} ∩ {3, 6}
+
+⇒ A ∩ B = {6}
+
+A ∩ B ∩ C = {4, 5, 6} ∩ {3, 6} ∩ {1, 3, 5}
+
+⇒ A ∩ B ∩ C = ∅ (Empty Set) 
+
+A ∪ B = {4, 5, 6} ∪ {3, 6}
+
+⇒ A ∪ B = {3, 4, 5, 6}
+
+Problem 9: A die is rolled, let’s define two events, event A is getting the number 2 and Event B is getting an even number. Are these events mutually exclusive? 
+
+Solution: 
+
+Sample space for die roll will be, 
+
+S = {1, 2, 3, 4, 5, 6} 
+
+For the event A, 
+
+A = {2}
+
+For the event B, 
+
+B = {2, 4, 6}
+
+For two events to be mutually exclusive, their intersection must be an empty set 
+
+A ∩ B = {2} ∩ {2, 4, 6}
+
+⇒ A ∩ B  = {2}
+
+Since it is not an empty set, these events are not mutually exclusive.
+
+An event in probability is a subset of the sample space (the set of all possible outcomes of an experiment.)
+
+The different types of events in probability are as follows:
+
+A simple event is an event that consists of a single outcome. For example, if a coin is tossed, the event of getting a head is a simple event.
+
+A compound event is an event that consists of two or more outcomes. For example, when rolling two dice and getting a sum of 7 which can be achieved either by (1, 6), (2, 5), (3, 4), (4, 3), (3, 4), (5, 2), or (6, 1).
+
+The complement of an event in probability is the set of all outcomes in the sample space that are not in the event.
+
+The intersection of two events is the event that consists of all outcomes that are in both events. It is denoted by the symbol ∩.
+
+The union of two events is the event that consists of all outcomes that are in either of the two events. It is denoted by the symbol ∪.
+
+The addition rule of probability states that the probability of the union of two events is equal to the sum of their individual probabilities minus the probability of their intersection. Mathematically it is given by 
+
+P(A ∪ B) = P(A) + P(B) – P(A ∩ B). 
+
+Note: This rule applies only to events that are not mutually exclusive.
+
+The multiplication rule of probability states that the probability of the intersection of two events is equal to the product of their individual probabilities if the events are independent. Mathematically it is given by 
+
+ P(A ∩ B) = P(A) × P(B)
+
+Note: This rule applies only to events that are independent.
+
+A
+
+• Events in Probability
+• Probability of Events
+• Types of Events in Probability
+• Union and Intersection of Events
+• Algebra of Events
+• How to Find the Probability of an Event
+• Sample Problems on Events in Probability
+• Theoretical Probability
+• Empirical Probability
+• Subjective Probability
+• Impossible and Sure Events
+• Simple Event and Compound Event
+• Dependent and Independent Events
+• Mutually Exclusive Events
+• Exhaustive Events
+• Equally Likely Events
+• Step 1: Find the total sample space of the experiment.
+• Step 2: Find the number of favourable outcomes of the experiment.
+• Step 3: Use the formula to calculate the probability as,
+• Probability Distribution
+• Chance and Probability
+• Union of Sets
+• E1 or E2
+• E1 and E2
+• E1 (only even numbers) = {2, 4, 6}
+• E2 (number more than 3) = {4, 5, 6}
+• E1 or E2 = {2, 4, 5, 6}
+• E1 and E2 = {4, 6}
+• E1 but not E2
+• E2 but not E1
+• E1 (a number less than 5)= {1, 2, 3, 4}
+• E2 (a number more than 2)= {3, 4, 5, 6}
+• E1 but not E2 = {1, 2}
+• E2 but not E1 = {5, 6}
+• E = {(H, H, T), (H, T, H), (T, H, H)}
+• A coin is tossed for the 5th time and in the event of getting a tail when the first four times, the result was ahead.
+• S (sample space)= {1, 2, 3, 4, 5} and E= {4}
+• S= {1, 2, 3, 4, 5} and E= {2, 4}
+• S= {1, 2, 3, 4, 5}, E1= {1, 2} and E2= {3, 4}
+• No matter how many times the coin is tossed, every time the probability of getting a tail will be 0.5 irrespective of the previous outcomes, therefore the event will be an independent event.
+• E= {4} is a Simple event.
+• E= {2, 4} is a compound event.
+• E1 and E2 are Mutually exclusive events.
+• A: Getting a number greater than 3 
+• B: Getting a number that is multiple of 3. 
+• C: Getting an odd number
+• Outcome: Outcome is a single result that can occur from an experiment. 
+• Event: An event is a collection of outcomes that share a common characteristic.
+• Impossible and Sure Events
+• Simple Event and Compound Event
+• Dependent and Independent Events
+• Mutually Exclusive Events
+• Exhaustive Events
+• Equally Likely Events
+• Simple Event: A simple event in probability is an event that include only a single outcome. 
+• Compound Event: A compound event is an event that consists of two or more outcomes.
+
+**Events in Probability- **
+**Sample Space**
+**Note:**
+**Impossible Event and Sure Event: **
+**Independent Event and Dependent Event: **
+**Learn more about, **
+**Dependent and Independent Events**
+**Simple and Compound Event:**
+**Mutually Exclusive Events:**
+**Exhaustive Events:**
+**Equally Likely Events: **
+**Learn more about, **
+**Types of Events in Probability**
+**A ∪ B**
+**A ∩ B**
+**Complimentary Event **
+**Event A or B**
+**Event A or B = A ∪ B**
+**A ∪ B = {w : w ∈ A or w ∈ B}**
+**Events A and B**
+**Event A and B = A ∩ B**
+**A ∩ B= {w: w ∈ A and w ∈ B}**
+**Event A but not B**
+**A but not B = A – B **
+**A – B = A ∩ B’**
+**B’**
+**Step 1: **
+**Step 2:**
+**Step 3:**
+**Probability = (Favourable Outcome)/(Total Outcome)**
+**Read More,**
+**Problem 1: A die is thrown in the game of Ludo and E**
+**1**
+** denotes the event of getting even numbers and E**
+**2**
+** represents the event of getting a number more than 3, Find the Set for the following events,**
+**E**
+**1**
+** or E**
+**2**
+**E**
+**1**
+** and E**
+**2**
+**Solution:**
+**Problem 2: A die is thrown and the set for the sample space obtained is, S = {1, 2, 3, 4, 5, 6}**
+**E**
+**1**
+** is defined as the event of obtaining a number less than 5 and E**
+**2**
+** is defined as the**
+**event of obtaining a number more than 2.**
+**Find the set for the following,**
+**E**
+**1**
+** but not E**
+**2**
+**E**
+**2**
+** but not E**
+**1**
+**Solution:**
+**Problem 3: Write the sample space for tossing three coins at once, also answer the event of 2 exactly 2 heads at a time.**
+**Solution:**
+**Problem 4: Name the types of events obtained from the given below experiments,**
+**A coin is tossed for the 5th time and in the event of getting a tail when the first four times, the result was ahead.**
+**S (sample space)= {1, 2, 3, 4, 5} and E= {4}**
+**S= {1, 2, 3, 4, 5} and E= {2, 4}**
+**S= {1, 2, 3, 4, 5}, E**
+**1**
+**= {1, 2} and E**
+**2**
+**= {3, 4}**
+**Solution:**
+**Problem 5: Sample Space of an experiment is given as,**
+**S = {10, 11, 12, 13, 14, 15, 16, 17} and the event, E is defined as all the even numbers. What will be the complementary event for E?**
+**Solution:**
+**Problem 6: Consider the experiment of tossing a fair coin 3 times, Event A is defined as getting all tails. What kind of event is this? **
+**Solution: **
+**S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}**
+**Problem 7: Let’s say a coin is tossed once, state whether the following statement is True or False. **
+**“If we define an event X which means getting both heads and tails. This event will be a simple event.”**
+**Solution:**
+**Problem 8: A die is rolled, and three events A, B**
+** and C are defined below:**
+**A: Getting a number greater than 3 **
+**B: Getting a number that is multiple of 3. **
+**C: Getting an odd number**
+**Find A ∩ B, A ∩ B ∩ C, and A ∪ B.**
+**Solution:**
+** **
+**Problem 9: A die is rolled, let’s define two events, event A is getting the number 2 and Event B is getting an even number. Are these events mutually exclusive? **
+**Solution: **
+**Outcome: **
+**Event: **
+**Simple Event:**
+**Compound Event: **
+**∩**
+**∪**
+**P(A ∪ B) = P(A) + P(B) – P(A ∩ B). **
+**Note: **
+** P(A ∩ B) = P(A) × P(B)**
+**Note: **

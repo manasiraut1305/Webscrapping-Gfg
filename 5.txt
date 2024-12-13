@@ -1,0 +1,85 @@
+No title found
+
+In this article, we are going to see how to import and export data using CSV file in PostgreSQL, the data in CSV files can be easily imported and exported using PostgreSQL.
+
+To create a CSV file, open any text editor (notepad, vim, atom). Write the column names in the first line. Add row values separated by commas to the corresponding columns in the next lines. Save the file as Demo_data.csv as shown below.
+
+
+
+Now create a new table using psycopg2 where we will import the data from the CSV file:
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+Output:
+
+We use COPY command with FROM keyword to import the contents of the CSV file into a new table.
+
+Syntax: COPY <table name> FROM ‘location + file_name’ DELIMITER ‘,’ CSV HEADER;
+
+Where:
+
+Example:
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+Output:
+
+[(1, ‘Harry’, ‘Delhi’, 29), (2, ‘Mira’, ‘Mumbai’, 24), (3, ‘Emma’, ‘Bangalore’, 30), (4, ‘Kevin’, ‘Mumbai’, 19)]
+
+To export data from a table into a CSV file, we use TO keyword with the COPY command. 
+
+Syntax: COPY <table name> TO ‘location + file_name’ DELIMITER ‘,’ CSV HEADER;
+
+Here, <table name> is the table from which we are exporting data.
+
+‘location + file_name’ contains the path of the CSV file into which we want to export the data. Make sure you have ‘write’ access to the file.
+
+Example:
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+The exported CSV will look like this:
+
+
+
+S
+
+• <table name> – name of the table where we want to import data.
+• ‘location + file_name’ – full path of the CSV file from which we are importing data (make sure you have ‘read’ access to the file).
+• DELIMITER ‘,’ – specifies the delimiter which is comma (,)
+• CSV – specifies the format of the file from which we are importing data.
+• HEADER – specifies that we have a header row in our .csv file and while importing we should ignore the first row.
+
+**Now create a new table using psycopg2 where we will import the data from the CSV file:**
+**Output:**
+**Importing data using a CSV file**
+**Syntax: **
+**Where:**
+**Example:**
+**Output:**
+**Syntax: **
+**Example:**

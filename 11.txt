@@ -1,0 +1,105 @@
+No title found
+
+In everyday life, the word ‘maybe’ is often used when people are unsure about certain things. For example, perhaps, it may rain today. There could be a chance of rain but we are not sure, it might not rain today. This type of statement leads to uncertainty in the event. The term Probability is derived from the word ‘probably’, which means when people are not sure of the occurrence of an event. So the unique way of finding opportunities to be discussed in this article.
+
+It is defined as the ratio of favourable outcomes to the total number of possible outcomes. We can represent it in fractions, decimals, or percentages.  The probability lies between 0 to 1.
+
+Probability = {(Favourable Outcomes) / (Total Outcomes)} 
+
+We generally represent it by ‘p’.
+
+If probability of an event is ‘p’ then the probability of not happening of same event is ‘1-p’, we generally non happening of probability by ‘q’.
+
+q = 1 – p 
+
+Possible Outcomes
+
+Possible outcomes are termed as all outcomes which appear when an experiment is performed. It may be in favor of the person who is experimenting and it may also not be in favour. Suppose a person rolls a dice and he wished that 5 will appear but the final outcome may be any number between 1 to 6. 
+
+All the possible outcome is termed as the sample space.
+
+And if count all the possible outcomes then that value is called the number of possible outcomes.
+
+Solution:
+
+We will learn step by step, how to solve this problem.
+
+Step 1: First of all try to find out all the possible outcomes when a single coin is toss. 
+
+When we toss a fair coin then the outcomes are ‘Head’ or ‘Tail’
+
+Step 2: Represent them in form of sample space.
+
+We will represent head as ‘H’ and tail as ‘T’
+
+Sample Space, S = { H, T}
+
+Step 3: If the same process is repeated then try to find out the relation between them.
+
+Here three coins are tossed, so the first coin may show Head or Tail, similarly, the second and third coins may also show head and tail.
+
+The first coin has two possibilities, the second coin has two possibilities and the third coin also has two possibilities.
+
+So total number of possibilities = 2 × 2 × 2
+
+                                                 = 8
+
+Step 4: Write down all the possibilities.
+
+By exchanging the position of head and tail, all the possible outcomes = { HHH, HHT, HTH, THH, HTT, THT, TTT, TTH}
+
+So there is a total of 8 possible outcomes when three coins were tossed once.
+
+Question 1: How many possible outcomes if two coins were tossed once?
+
+Solution: 
+
+When we toss a fair coin then the outcomes as ‘Head’ or ‘Tail’, so the total possible outcomes are 2.
+
+We will represent head as ‘H’ and tail as ‘T’
+
+Since the same experiment is performed twice so total possible outcomes = 2 × 2
+
+                                                                                                                  = 4
+
+Possible outcomes, S = { HH, HT, TH, TT }
+
+So there is a total of 4 possible outcomes when two dice were tossed once.
+
+Question 2: How many possible outcomes if four coins were tossed once?
+
+Solution:
+
+When we toss a fair coin then the outcomes as ‘Head’ or ‘Tail’, so the total possible outcomes are 2.
+
+We will represent head as ‘H’ and tail as ‘T’
+
+Since the same experiment is performed four times, so total possible outcomes = 2 × 2 × 2 × 2
+
+                                                                                                                           =16
+
+Possible outcomes, S = { HHHH, HHHT, HHTH, HTHH, THHH, HHTT, TTHH, HTHT, THTH, THHT, HTTH, HTTT, THTT, TTHT,                                         TTTH, TTTT }
+
+So there is a total of 16 possible outcomes when four dice were tossed once.
+
+R
+
+• Random Experiment: Random experiment is defined as any job to be done. Suppose we are rolling dice or tossing a coin etc.
+• Event: Event is defined as the collection of outcomes.
+• Sample Space: Sample space is defined as all the possible outcomes of an experiment. For example, if we roll a dice then it might appear 1,2,3,4,5, or 6. So all these outcomes are termed as sample space.
+
+**Terms Related to Probability**
+**Random Experiment: **
+**Event: **
+**Sample Space: **
+**Probability**
+**Possible Outcomes**
+**Solution:**
+**Step 1:**
+**Step 2:**
+**Step 3:**
+**Step 4:**
+**Question 1: How many possible outcomes if two coins were tossed once?**
+**Solution: **
+**Question 2: How many possible outcomes if four coins were tossed once?**
+**Solution:**

@@ -1,0 +1,69 @@
+No title found
+
+Usually, frequency distribution and graphical representation are used to depict a set of raw data to attain meaningful conclusions from them. However, sometimes, these methods fail to convey a proper and clear picture of the data as expected. Therefore, some measures, also known as Measures of Central Tendency or Average are used as a single measurement to determine the main characteristics of the given series. Hence, the Measure of Central Tendency is a single value used for the representation of a complete set of data. Another name for Measure of Central Tendency is Measure of Location. Average is a typical value of the given data set to which most of the observations of the data fall closer than any other value. The three principal measures that are used in Statistical Analysis are Arithmetic Mean, Median, and Mode. 
+
+The different measures of central tendency can be classified into three categories; viz., Mathematical Averages (Arithmetic Mean, Geometric Mean(G), and Harmonic Mean(H)), Positional Averages (Median(M or Me) and Mode(Z)), and Commercial Averages (Moving Average, Progressive Average, and Composite Average).
+
+ 
+
+An average is an attempt to find one single figure to describe all the figures.
+
+– Clark and Sekkade
+
+Average is a value which is typical of representative of a set of data.
+
+– Spiegal
+
+An average is a single value within the range of the data that is used to represent all the values in the series. Since an average is somewhere within the range of data, it is sometimes called as a Measure of Central Value.
+
+– Croxton and Cowden
+
+ 
+
+It is not easy for an individual to grasp a large number of figures. Averages or Measures of Central Tendency summarise the given data set into a single numerical figure which is easy to understand and remember. For example, it is easy to remember the average marks of students in different sections of a class, than to remember the marks of each student in every section of a class. 
+
+As different averages reduce the mass statistical data into a single figure, they help in making comparative studies either at a single point of time or over a period of time. For example, The average sales figures for the current month of an organisation can be easily compared with the previous month’s sales figures or with other firms’ sales figures with the help of different measures of central tendency. 
+
+The values provided by Averages act as a guideline for decision-makers. Most of the decisions to be taken by these decision-makers for their research or planning are based on the average value of the variables of the given series or data set. For example, if the average monthly cost of production of an organisation is rising, then the production manager will have to improve the cost of production. 
+
+Averages involve the use of sample data which can also help an investigator obtain an idea of the complete universe. It means that to understand the average of the population, one can take the help of the average of a sample to obtain an easy-to-understand and clear picture. 
+
+When an individual wants to establish a relationship between the different groups of data in quantitative terms, Averages become important. For example, It is irrelevant to state that the average salary of the employees of ABC Ltd. is more than the average salary of the employees of XYZ Ltd. only on the basis of observation. However, if this statement is said when their respective salaries are expressed in terms of averages, then it is said to be precise. 
+
+By taking Averages as a base, one can compute other different measures like skewness, kurtosis, dispersion, etc., for other phases of statistical analysis. 
+
+ 
+
+Some essentials of a good average are as follows:
+
+A good average should create no confusion in the minds of the investigator and there should be only one interpretation of the calculated average. In other words, an average should be rigid and clear. It should not give any chance to apply discretion and should be defined using an algebraic formula. With the defined algebraic formula, the determined average from the given data set remains the same even though different people are calculating. 
+
+The value of an average should be computed using a method that is simple and does not reduce the accuracy and other advantages of the average.
+
+There should be sampling stability in an average. It means that if we take two or more than two same-sized random interdependent samples from a given population and calculate the average of each sample, then the resultant value from those samples should not differ much from each other. 
+
+The value of an average should not be affected by just one or two very large or very small items, as it may not represent a true picture and characteristics of the given data set. 
+
+An average should be based on all the observations, which means that one should calculate the average after taking every item of a series into consideration. If the value of an average is not based on all items, it cannot represent the whole group or series. 
+
+A good average should have the capability of further statistical and mathematical calculations and analysis so that its utility can be expanded. For example, if we have averages of 5 different samples of a population, then it should also have the capability of computing the combined average. 
+
+N
+
+
+
+**Measures of Central Tendency **
+**Average **
+**Measure of Central Tendency **
+**Measure of Location. **
+**Arithmetic Mean, Median, **
+**Mode. **
+**– Clark and Sekkade**
+**– Spiegal**
+**Measure of Central Value.**
+**– Croxton and Cowden**
+**For example, **
+**For example, **
+**For example, **
+**For example, **
+**For example, **

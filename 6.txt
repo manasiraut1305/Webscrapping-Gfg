@@ -1,0 +1,107 @@
+No title found
+
+Whenever we deal with some piece of data no matter whether it is small or stored in huge databases statistics is the key that helps us to analyze this data and provide insightful points to understand the whole data without going through each of the data pieces in the complete dataset at hand. In this article, we will learn about Descriptive Statistics and how actually we can use it as a tool to explore the data we have.
+
+In Descriptive statistics, we are describing our data with the help of various representative methods using charts, graphs, tables, excel files, etc. In descriptive statistics, we describe our data in some manner and present it in a meaningful way so that it can be easily understood. Most of the time it is performed on small data sets and this analysis helps us a lot to predict some future trends based on the current findings. Some measures that are used to describe a data set are measures of central tendency and measures of variability or dispersion.
+
+ 
+
+It represents the whole set of data by a single value. It gives us the location of the central points. There are three main measures of central tendency:
+
+ 
+
+It is the sum of observations divided by the total number of observations. It is also defined as average which is the sum divided by count.
+
+
+
+ where, 
+
+Let’s look at an example of how can we find the mean of a data set using Python code implementation.
+
+Output : 
+
+It is the value that has the highest frequency in the given data set. The data set may have no mode if the frequency of all data points is the same. Also, we can have more than one mode if we encounter two or more data points having the same frequency.
+
+Output: 
+
+It is the middle value of the data set. It splits the data into two halves. If the number of elements in the data set is odd then the center element is the median and if it is even then the median would be the average of two central elements. 
+
+Output: 
+
+Measures of variability are also termed measures of dispersion as it helps to gain insights about the dispersion or the spread of the observations at hand. Some of the measures which are used to calculate the measures of dispersion in the observations of the variables are as follows:
+
+The range describes the difference between the largest and smallest data point in our data set. The bigger the range, the more the spread of data and vice versa.
+
+Range = Largest data value – smallest data value 
+
+Output: 
+
+It is defined as an average squared deviation from the mean. It is calculated by finding the difference between every data point and the average which is also known as the mean, squaring them, adding all of them, and then dividing by the number of data points present in our data set.
+
+
+
+where,
+
+Output: 
+
+It is defined as the square root of the variance. It is calculated by finding the Mean, then subtracting each number from the Mean which is also known as the average, and squaring the result. Adding all the values and then dividing by the no of terms followed by the square root.
+
+ 
+
+where, 
+
+Output: 
+
+Measures of frequency distribution help us gain valuable insights into the distribution and the characteristics of the dataset. Measures like,
+
+are used to analyze the dataset on the basis of measures of frequency distribution. 
+
+While performing the data analysis if we are considering only one variable to gain insights about it then it is known as the univariate data analysis. But if we are trying to gain insights into one variable with respect to some other variable like calculating correlation or covariance between two variables then this is known as data analysis.
+
+Bivariate analysis helps us establish a relationship between two variables which helps us make better decisions so, that we can manipulate one to cause a positive or negative effect on the other based on the relationship between the two variables. Even though we can use multivariate data analysis to analyze and derive relationships between more than two variables these methodologies are considered to come under the domain of machine learning.
+
+Generally, there are two types of statistics that are used to deal with the data when the requirements of the analyst are different. The main difference lies in the final requirements only if the person just wants to extract meaningful insights from the data at hand then the domain of statistics that will be used by him is known as Descriptive Statistics but if we would like to use the observations to predict the future data let’s say in the time series related dataset then our objective contains the process of inference as well and hence it is also known as Inferential Statistics.
+
+We can summarize this as when we would like to make some predictions/inferences based on some dataset at hand then those statistical methods are known as inferential statistics.
+
+N
+
+• Measures of Central Tendency
+• Measure of Variability
+• Measures of Frequency Distribution 
+• Mean
+• Mode
+• Median
+• x = Observations
+• n = number of terms
+• Range
+• Variance
+• Standard deviation
+• x -> Observation under consideration
+• N -> number of terms 
+• mu -> Mean 
+• x = Observation under consideration
+• N = number of terms 
+• mu = Mean
+• Count
+• Frequency
+• Relative Frequency 
+• Cumulative Frequency
+
+**Types of Descriptive Statistics**
+**Measures of Central Tendency**
+**Mean**
+**Output : **
+**Mode**
+**Output: **
+**Median**
+**Output: **
+**Range**
+**Output: **
+**Variance**
+**x **
+**N**
+**mu**
+**Output: **
+**Standard Deviation**
+**Output: **

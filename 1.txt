@@ -1,0 +1,292 @@
+No title found
+
+Computer networking is like having a group of friends who all have phones and can call or text each other. In computer networking, instead of phones, we have computers and instead of phone lines, we use cables, Wi-Fi, or other methods to connect them. When computers are connected to a network, they can share information and resources, like files, printers, and internet connections. This allows them to communicate with each other quickly and easily, just like friends talking on their phones.
+
+A computer network consists of various kinds of nodes. Servers, networking hardware, personal computers, and other specialized or general-purpose hosts can all be nodes in a computer network. Hostnames and network addresses are used to identify them. In this article, we are going to discuss computer networking in detail.
+
+Computer Networking
+
+A computer network is a system that connects many independent computers to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. A computer network is a collection of two or more computer systems that are linked together. A network connection can be established using either cable or wireless media. Hardware and software are used to connect computers and tools in any network.
+
+Computer Networks are one of the important aspects of Computer Science. In the early days, it is used for data transmission on telephone lines and had a very limited use, but nowadays, it is used in a variety of places.
+
+Computer Networks help in providing better connectivity that helps nowadays. Modern computer networks have the following functionality:
+
+In simple terms, a computer network is made up of two main parts: devices (called nodes) and connections (called links). The links connect the devices to each other. The rules for how these connections send information are called communication protocols. The starting and ending points of these communications are often called ports.
+
+Key Components of Computer Network
+
+Basic hardware interconnecting network nodes, such as Network Interface Cards (NICs), Bridges, Hubs, Switches, and Routers, are used in all networks. In addition, a mechanism for connecting these building parts is necessary, which is usually galvanic cable and optical cable are less popular (“optical fiber”)The following are the network devices :
+
+Links are the ways information travels between devices, and they can be of two types:
+
+A communication protocol is a set of rules that all devices follow when they share information. Some common protocols are TCP/IP, IEEE 802, Ethernet, wireless LAN, and cellular standards. TCP/IP is a model that organizes how communication works in modern networks. It has four functional layers for these communication links:
+
+Most of the modern internet structure is based on the TCP/IP model, although the similar seven-layer OSI model still has a strong influence.
+
+IEEE 802 is a group of standards for local area networks (LAN) and metropolitan area networks (MAN). The most well-known member of the IEEE 802 family is wireless LAN, commonly known as WLAN or Wi-Fi.
+
+While nodes, links, and protocols are the building blocks of a network, a modern network also needs strong defenses. Security is crucial because huge amounts of data are constantly being created, moved, and processed. Some examples of network defense tools are firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), network access control (NAC), content filters, proxy servers, anti-DDoS devices, and load balancers.
+
+Computer Networks simply work using nodes and links. Data communication equipment is simply termed as Nodes. For example, Modems, Hubs, Switches, etc. whereas links in Computer networks can be referred to as a connection between two nodes. We have several types of links like cable wires, optical fibers, etc. 
+
+Whenever a Computer Network is working, nodes have the work of sending and receiving data via the links. Computer Network provides some set of protocols that help in following the rules and protocols.
+
+Computer Network Architecture is of two types. These types are mentioned below.
+
+There are three main types of Enterprise Computer Networks which are mentioned below.
+
+No industry—whether it’s education, retail, finance, tech, government, or healthcare—can function without well-designed computer networks. The larger the organization, the more complex the network becomes. Before starting the challenging job of creating and setting up a computer network, here are some key objectives to consider.
+
+Today’s enterprises are spread across the globe, with critical assets being shared across departments, geographies, and time zones. Clients are no more bound by location. A network allows data and hardware to be accessible to every pertinent user. This also helps with interdepartmental data processing. For example, the marketing team analyzes customer data and product development cycles to enable executive decisions at the top level.
+
+A network ensures that resources are not stuck in isolated areas and can be accessed from multiple locations. High reliability comes from having various sources of supply. Important resources are backed up across multiple machines, so they remain accessible even if there are hardware problems.
+
+As a company grows, its workload increases. Adding one or more processors to the network boosts the overall performance of the system and allows it to handle this growth. Storing data in well-designed databases can significantly speed up searching and retrieving information.
+
+Big mainframe computers are costly, so it’s smarter to add processors strategically throughout the system. This boosts performance and saves money. Networks let employees access information quickly, saving operational time and costs. Centralized network administration means fewer investments are needed for IT support.
+
+Network-attached storage devices are great for employees who handle lots of data. For instance, the data science team doesn’t each need their own data storage for the large number of records they process. Centralized repositories are more efficient. As businesses deal with record amounts of customer data, the ability to expand storage capacity is crucial.
+
+Networks greatly influence how companies operate daily. Employees can share files, see each other’s work, sync calendars, and exchange ideas more efficiently. Internal messaging systems like Slack facilitate easy flow of information and conversations within modern enterprises. However, emails remain the formal mode of communication with clients, partners, and vendors.
+
+Networks decrease errors by ensuring everyone gets information from one source, even if they’re in different places. Backed-up data ensures consistency and continuity. Standard versions of customer and employee manuals can be easily accessed by many people without much trouble.
+
+Computer networks offer flexibility, which is crucial during uncertain times like now when natural disasters and pandemics are affecting the world. A secure network guarantees that users can access and work on sensitive data safely, even when they’re not at the company’s location. Mobile devices registered to the network can also provide multiple layers of authentication, ensuring that unauthorized users can’t access the system.
+
+The structure of the network and how each component is connected to the others are defined by the network topology. Different types of network topology are mentioned below:
+
+Every computer and network device is connected to a single cable in a bus topology network. Linear Bus topology is defined as having exactly two terminals.
+
+For more, you can refer to the Advantages and Disadvantages of Bus Topology.
+
+Bus Topology
+
+The topology is named ring topology because one computer is connected to another, with the final one being connected to the first. Exactly two neighbors for each device. A signal is passed along the ring in one direction. Each ring incorporates a repeater. 
+
+For more, you can refer to the Advantages and Disadvantages of Ring Topology.
+
+Ring Topology
+
+Each device in a star topology has a dedicated point-to-point link to a central controller, which is commonly referred to as the HUB. There is no direct connection between the devices. Traffic between the devices is not allowed in this topology. As an exchange, the controller is used.
+
+For more, you can refer to the Advantages and Disadvantages of Star Topology.
+
+Example: Used in high-speed LANs
+
+Star Topology
+
+Every device in a mesh topology has dedicated point-to-point connectivity to every other device. The term “dedicated” refers to the fact that the link exclusively transports data between the two devices it links. To connect n devices, a fully connected mesh network contains n *(n-1)/2 physical channels.
+
+For more, you can refer to the Advantages and Disadvantages of Mesh Topology.
+
+Example:  connection of telephone regional office in which each regional office needs to be connected to every other regional office. 
+
+Mesh Topology
+
+The topology of a tree is similar to that of a star. Nodes in a tree, like those in a star, are connected to a central hub that manages network traffic. It has a root node, which is connected to all other nodes, producing a hierarchy. Hierarchical topology is another name for it. The number of Star networks is connected via Bus in Tree Topology.
+
+For more, you can refer to the Advantages and Disadvantages of Tree Topology.
+
+Tree-Topology
+
+The Internet is a larger network that allows computer networks controlled by enterprises, governments, colleges, and other organizations all over the world to communicate with one another. As a result, there is a tangle of cables, computers, data centers, routers, servers, repeaters, satellites, and Wi-Fi towers that allow digital data to go around the world.
+
+The Internet is a vast network of networks that functions as a networking infrastructure. It links millions of computers throughout the world, creating a network in which any computer can talk with any other computer as long as they are both linked to the Internet. The Internet is a global network of interconnected computers that communicate and share information using a standardized Internet Protocol Suite.
+
+We can connect to the internet in the following ways:
+
+In conclusion, computer networking is essential because it allows computers to connect and communicate with each other. This connectivity enables them to share information and resources, making tasks easier and faster. Whether it’s a small network within a home or office (LAN) or a large network spreading across cities and countries (WAN), networking helps us stay connected, work together, and access the internet. It’s like having a team where everyone can instantly share ideas and tools, making collaboration smooth and efficient. So, computer networking is all about making connections that help us stay informed, productive, and connected to the world.
+
+Network specialists and administrators take care of the daily tasks to keep networks running smoothly. Network architects and engineers plan and create networks like LANs (Local Area Networks), WANs (Wide Area Networks), and Intranets.
+
+The full form of www is World Wide Web. It is the world’s most dominant software and is commonly known as the web.
+
+The structure of the network and how each component is connected to the others are defined by the network topology.
+
+S
+
+• Computer Networks help in operating virtually
+• Computer Networks integrate on a large scale
+• Computer Networks respond very quickly in case of conditions change
+• Computer Networks help in providing data security
+• NIC (Network Interface Card): A network card, often known as a network adapter or NIC (network interface card), is computer hardware that enables computers to communicate via a network. It offers physical access to networking media and, in many cases, MAC addresses serve as a low-level addressing scheme. Each network interface card has a distinct identifier. This is stored on a chip that is attached to the card.
+• Repeater: A repeater is an electrical device that receives a signal, cleans it of unwanted noise, regenerates it, and retransmits it at a higher power level or to the opposite side of an obstruction, allowing the signal to travel greater distances without degradation. In the majority of twisted pair Ethernet networks, Repeaters are necessary for cable lengths longer than 100 meters in some systems. Repeaters are based on physics.
+• Hub: A hub is a device that joins together many twisted pairs or fiber optic Ethernet devices to give the illusion of a formation of a single network segment. The device can be visualized as a multiport repeater. A network hub is a relatively simple broadcast device. Any packet entering any port is regenerated and broadcast out on all other ports, and hubs do not control any of the traffic that passes through them. Packet collisions occur as a result of every packet being sent out through all other ports, substantially impeding the smooth flow of communication.
+• Bridges: Bridges broadcast data to all the ports but not to the one that received the transmission. Bridges, on the other hand, learn which MAC addresses are reachable through specific ports rather than copying messages to all ports as hubs do. Once a port and an address are associated, the bridge will only transport traffic from that address to that port.
+• Switches: A switch differs from a hub in that it only forwards frames to the ports that are participating in the communication, rather than all of the ports that are connected. The collision domain is broken by a switch, yet the switch depicts itself as a broadcast domain. Frame-forwarding decisions are made by switches based on MAC addresses.
+• Routers: Routers are networking devices that use headers and forwarding tables to find the optimal way to forward data packets between networks. A router is a computer networking device that links two or more computer networks and selectively exchanges data packets between them. A router can use address information in each data packet to determine if the source and destination are on the same network or if the data packet has to be transported between networks. When numerous routers are deployed in a wide collection of interconnected networks, the routers share target system addresses so that each router can develop a table displaying the preferred pathways between any two systems on the associated networks.
+• Gateways: To provide system compatibility, a gateway may contain devices such as protocol translators, impedance-matching devices, rate converters, fault isolators, or signal translators. It also necessitates the development of administrative procedures that are acceptable to both networks. By completing the necessary protocol conversions, a protocol translation/mapping gateway joins networks that use distinct network protocol technologies.
+• Wired: Communication done in a wired medium. Copper wire, twisted pair, or fiber optic cables are all options. A wired network employs wires to link devices to the Internet or another network, such as laptops or desktop PCs.
+• Wireless: Wireless means without wire, media that is made up of electromagnetic waves (EM Waves) or infrared waves. Antennas or sensors will be present on all wireless devices.  For data or voice communication, a wireless network uses radio frequency waves rather than wires.
+• Network Access Layer: This layer controls how data is physically transferred, including how hardware sends data through wires or fibers.
+• Internet Layer: This layer packages data into understandable packets and ensures it can be sent and received.
+• Transport Layer: This layer keeps the communication between devices steady and reliable.
+• Application Layer: This layer allows high-level applications to access the network to start data transfer.
+• Performance: It can be measured in many ways, including transmit time and response time. Transit time is the amount of time required for a message to travel from one device to another. Response time is the elapsed time between an inquiry and a response. The performance of the network depends on a number of factors, including the number of users, the type of medium & Hardware.
+• Reliability: In addition to accuracy is measured by frequency of failure, the time it takes a link to recover from failure, and the network’s robustness in catastrophe. 
+• Security: Network security issues include protecting data from unauthorized access, protecting data from damage and development, and implementing policies and procedures for recovery from breaches and data loss.  
+• Programs do not have to execute on a single system because of resource and load sharing
+• Reduced costs – Multiple machines can share printers, tape drives, and other peripherals
+• Reliability – If one machine fails, another can take its place
+• Scalability (it’s simple to add more processors or computers)
+• Communication and mail (people living apart can work together)
+• Information Access (remote information access, access to the internet, e-mail, video conferencing, and online shopping)
+• Entertainment that is interactive (online games, videos, etc.)
+• Social Networking
+• Local Area Network (LAN): A LAN is a network that covers an area of around 10 kilometers. For example, a college network or an office network. Depending upon the needs of the organization, a LAN can be a single office, building, or Campus. We can have two PCs and one printer in-home office or it can extend throughout the company and include audio and video devices. Each host in LAN has an identifier, an address that defines hosts in LAN. A packet sent by the host to another host carries both the source host’s and the destination host’s address.
+• Metropolitan Area Network (MAN): MAN refers to a network that covers an entire city. For example: consider the cable television network.
+• Wide Area Network (WAN): WAN refers to a network that connects countries or continents. For example, the Internet allows users to access a distributed system called www from anywhere around the globe.WAN interconnects connecting devices such as switches, routers, or modems. A LAN is normally privately owned by an organization that uses it. We see two distinct examples of WANs today: point-to-point WANs and Switched WANs 
+
+Point To Point: Connects two connecting devices through transmission media. 
+Switched: A switched WAN is a network with more than two ends.
+
+
+• Point To Point: Connects two connecting devices through transmission media. 
+• Switched: A switched WAN is a network with more than two ends.
+• Point To Point networks: Point-to-Point networking is a type of data networking that establishes a direct link between two networking nodes.A direct link between two devices, such as a computer and a printer, is known as a point-to-point connection.
+• Multipoint: is the one in which more than two specific devices share links. In the multipoint environment, the capacity of the channel is shared, either spatially or temporally. If several devices can use the link simultaneously, it is a spatially shared connection. 
+• Broadcast networks: In broadcast networks, a signal method in which numerous parties can hear a single sender. Radio stations are an excellent illustration of the “Broadcast Network” in everyday life. The radio station is a sender of data/signal in this scenario, and data is only intended to travel in one direction. Away from the radio transmission tower, to be precise.
+• P2P Networks: Computers with similar capabilities and configurations are referred to as peers.The “peers” in a peer-to-peer network are computer systems that are connected to each other over the Internet. Without the use of a central server, files can be shared directly between systems on the network.
+• Client-Server Networks: Each computer or process on the network is either a client or a server in a client-server architecture (client/server). The client asks for services from the server, which the server provides. Servers are high-performance computers or processes that manage disc drives (file servers), printers (print servers), or network traffic (network servers)
+• Hybrid Networks: The hybrid model  uses a combination of client-server and peer-to-peer architecture. Eg: Torrent.
+• Client-Server Architecture: Client-Server Architecture is basically the architecture where the clients and the server are connected as two clients can communicate with each other and the devices present work as servers in the network.
+• Peer-to-Peer Architecture: Peer-to-Peer Architecture, computers are connected to each other and each computer is equally capable of working as there is no central server here. Each device present here can be used as a client or server.
+• Local Area Network (LAN): Local Area Networks are small-scale networks used in small companies or as test networks. It has a limited size.
+• Wide Area Networks (WAN): Wide Area Networks are networks that are used for a larger area than local area networks and are used for long-distance communication.
+• Service Provider Networks: Service Provider Networks are the networks that help in wireless communication, high-speed internet access, etc.
+• Bus Topology
+• Ring Topology
+• Star Topology
+• Mesh Topology
+• Tree Topology
+• Installation is simple
+• Compared to mesh, star, and tree topologies, the bus utilizes less cabling
+• Difficulty in reconfiguring and isolating faults
+• A bus cable malfunction or break interrupts all communication
+• Data transmission is relatively straightforward because packets only move in one direction
+• There is no requirement for a central controller to manage communication between nodes
+• Easy installation & Reconfiguration
+• Simplified Faulty connections
+• In a Unidirectional Ring, a data packet must traverse through all nodes
+• All computers must be turned on in order for them to connect with one another
+• When attaching or disconnecting devices, there are no network interruptions
+• It’s simple to set up and configure
+• Identifying and isolating faults is simple
+• Less Expensive than mesh 
+• Easy to install & configure
+• Nodes attached to the hub, switch, or concentrator is failed if they fail
+• Because of the expense of the hubs, it is more expensive than linear bus topologies
+• More cable is required compared to a bus or ring 
+• Too much dependency on Hub
+• Data can be sent from multiple devices at the same time. This topology can handle a lot of traffic.
+• Even if one of the connections fails, a backup is always available. As a result, data transit is unaffected.
+• Physical boundaries prevent other users from gaining access to messages.
+• Point to Point links make fault transmission & fault isolation easy.
+• The amount of cabling and the number of I/O ports that are necessary.
+• The sheer bulk of wiring can be greater than the available space can accommodate.
+• It is difficult to install and reconfigure.
+• Network expansion is both possible and simple.
+• We partition the entire network into pieces (star networks) that are easier to manage and maintain.
+• Other segments are unaffected if one segment is damaged.
+• Tree topology relies largely on the main bus cable because of its basic structure, and if it fails, the entire network is handicapped.
+• Maintenance becomes more challenging when more nodes and segments are added.
+• Dial-Up: In order to access the Internet, in this type of connection, users must connect their phone line to a computer. This link prevents the user from using tier home phone service to make or receive calls.
+• Broadband: Broadband is a high-speed internet connection that is frequently utilized nowadays and is provided by cable or phone companies.
+• Wireless Connections: Internet access is accomplished by radio waves, thus it is possible to connect to the Internet from any location. Wi-Fi and mobile service providers are examples of wireless connections.
+• Source of Entertainment: Online gaming, talking, browsing, music, movies, dramas, and TV series are quickly becoming the most popular ways to pass the time.
+• Source of Information: There is no better place to conduct research than the internet. We can learn about the latest trends, communicate with experts without having to physically visit them, and seek professional advice over the Internet.
+• E-Commerce: With the advancement of internet technology, large online E-commerce enterprises such as Amazon, Ali Baba, myntra, etc. have emerged.
+• Working from home, collaborating with others, and having access to a global workforce are all advantages.
+• Keeps Updated: Because there are hundreds of thousands of newsgroups and services that keep you updated with every tick of the clock, the Internet is a source of the most recent news.
+• Time Wastage: Most people believe that spending too much time on the internet is unhealthy for young people and leads to obesity. 
+• Money Laundering: Aside from reputable sites, there are some Social Media Advertising sites that try to steal your personal information, credit card information, and even your pin code. You can easily become a victim of money scams if they get this information.
+• Exposure to Private Data: It is now quite easy to decipher someone’s chat or email communication thanks to the hacking community. As we all know, data is transmitted in packets, which hackers can simply detect and reconstruct.
+• Harassment & Threatening: Bullies exist online, just as they do in real life, and they can lower your self-esteem by harassing and threatening you. Some of these individuals may be persons who are aware of some of your personal details and dislike you and may use this information to harass you.
+
+**Key Components of a Computer Network**
+**.**
+**1. Network Devices**
+**NIC (Network Interface Card): **
+**Repeater: **
+**Hub: **
+**Bridges: **
+**Switches: **
+**Routers: **
+**Gateways: **
+**2. Links**
+**Wired: **
+**.**
+**Wireless: **
+**3. Communication Protocols**
+**Network Access Layer**
+**Internet Layer**
+**Transport Layer**
+**Application Layer**
+**4. Network Defense**
+**Criteria of a Good Network**
+**Performance: **
+**Reliability: **
+**Security:**
+**Goals of Computer Networking**
+**Division Based on Area Covered**
+**Local Area Network (LAN):**
+**Metropolitan Area Network (MAN): **
+**Wide Area Network (WAN):**
+**Point To Point**
+**Switched:**
+**Based on Types of Communication **
+**Point To Point networks:**
+**Multipoint**
+**Broadcast networks: **
+**Based on the Type of Architecture **
+**P2P Networks: **
+**Client-Server Networks: **
+**Hybrid Networks: **
+**Client-Server Architecture: **
+**Peer-to-Peer Architecture: **
+**Local Area Network (LAN): **
+**Wide Area Networks (WAN): **
+**Service Provider Networks: **
+**Key Objectives of Creating and Deploying a Computer Network**
+**1. Resource Sharing**
+**2. Resource Availability & Reliability**
+**3. Performance Management**
+**4.Cost Savings**
+**.**
+**5. Increased Storage Capacity**
+**.**
+**6. Streamlined Collaboration & Communication**
+**7. Reduction of Errors**
+**.**
+**8. Secured Remote Access**
+**Bus Topology**
+**Advantages**
+**Disadvantages**
+**Ring Topology**
+**Advantages**
+**Disadvantages**
+**Star Topology**
+**Advantages**
+**Disadvantages**
+**Example:**
+**Mesh Topology**
+**Advantages**
+**Disadvantages**
+**Example:**
+**Tree Topology**
+**Advantages**
+**Disadvantages**
+**How to Connect to the Internet?**
+**Dial-Up:**
+**Broadband:**
+**Wireless Connections:**
+**Source of Entertainment:**
+**Source of Information:**
+**E-Commerce:**
+**Keeps Updated:**
+**Time Wastage:**
+**Money Laundering:**
+**Exposure to Private Data:**
+**Harassment & Threatening:**
+**What is the full form of www?**

@@ -1,0 +1,178 @@
+No title found
+
+CBSE Informatics Practices Syllabus for Class 12 (2023-24) focuses on developing students’ computer science skills and practical knowledge. The IP Class 12 Syllabus covers a wide range of topics, including data handling using Python, database queries using SQL, introduction to computer networks, and societal impacts. The Informatics Practices Class 12 Syllabus is designed to help students develop the skillset and knowledge they need to use information technology effectively in their personal and professional lives.
+
+Unit No
+
+Unit Name
+
+Marks
+
+Periods Theory
+
+Periods Practical
+
+Total Period
+
+CBSE Class 12 IP consists of both practical and theoretical components.
+
+The practical component focuses on the learning of the students to apply their knowledge to solve real-world problems using programming languages, databases, and web development tools.
+
+The theory component includes conceptual understanding, principles, and applications of Informatics Practices. Students are evaluated based on their performance in practical examinations and theory assessments.
+
+To excel in CBSE Class 12 Informatics Practices, students can follow these tips:
+
+The CBSE Class 12 Informatics Practices Syllabus is a comprehensive and well-rounded curriculum that covers a wide range of topics related to information technology. The syllabus is designed to help students develop the skills set and knowledge they need to use information technology effectively in their personal and professional lives.
+
+The objectives of the CBSE Class 12 Informatics Practices Syllabus are to:
+
+The key topics covered in the CBSE Class 12 Informatics Practices Syllabus are:
+
+The assessment methods for the CBSE Class 12 Informatics Practices Syllabus are:
+
+The theory component will be assessed through a written examination. The practical component will be assessed through a project work and a practical examination.
+
+D
+
+• Introduction to Python Libraries Series
+• Importing and Exporting Data between CSV
+• Files and DataFrames
+• Pandas Series Vs NumPy ndarray
+• Introduction
+• Descriptive Statistics
+• Data Aggregations
+• Sorting a DataFrame
+• Group by Functions
+• Altering the Index
+• Other DataFrame Operations
+• Handling Missing Values
+• Import and Export of Data between Pandas and MySQL
+
+Importing Data from MySQL to Pandas
+Exporting Data from Pandas to MySQL
+
+
+• Importing Data from MySQL to Pandas
+• Exporting Data from Pandas to MySQL
+• Introduction
+• Plotting using Matplotlib
+• Customisation of Plots
+
+Marker
+colour
+Linewidth and Line Style
+
+
+• Marker
+• colour
+• Linewidth and Line Style
+• The Pandas Plot Function (Pandas Visualisation)
+
+Plotting a Line chart
+Plotting Bar Chart
+Plotting Histogram
+Plotting Scatter Chart
+Plotting Quartiles and Box plot
+Plotting Pie Chart
+
+
+• Plotting a Line chart
+• Plotting Bar Chart
+• Plotting Histogram
+• Plotting Scatter Chart
+• Plotting Quartiles and Box plot
+• Plotting Pie Chart
+• Introduction
+• Functions in SQL
+• GROUP BY in SQL
+• Operations on Relations
+• Using Two Relations in a Query
+
+Join in two tables
+Cartesian product on two tables
+
+
+• Join in two tables
+• Cartesian product on two tables
+• Introduction to Computer Networks
+• Types of Networks
+• Network Devices
+• Networking Topologies
+• The Internet
+• Applications of Internet
+• Website
+• Web Page
+• Web Server
+• Hosting of a Website
+• Browser
+• Introduction
+• Digital Footprints
+• Digital Society and Netizen
+
+Net Etiquettes
+Communication Etiquettes
+Social Media Etiquettes
+
+
+• Net Etiquettes
+• Communication Etiquettes
+• Social Media Etiquettes
+• Data Protection
+
+Intellectual Property Right
+Licensing
+Violation of IPR
+Public Access and Open Source Software
+
+
+• Intellectual Property Right
+• Licensing
+• Violation of IPR
+• Public Access and Open Source Software
+• Creative Commons
+• Cyber Crime
+
+Hacking
+Phishing and Fraud Emails
+Ransomware
+
+
+• Hacking
+• Phishing and Fraud Emails
+• Ransomware
+• Indian Information Technology Act (IT Act)
+• E-waste: Hazards and Management
+• Impact on Health
+• Understand the Concepts: Focus on understanding the underlying concepts rather than memorizing the content. This will help you apply the knowledge to practical scenarios effectively.
+• Practice Regularly: Regular programming practice is essential to strengthen your programming skills. Solve programming problems, work on projects, and explore real-life applications to gain hands-on experience.
+• Review Previous Year Question Papers: Familiarize yourself with the pattern and types of questions asked in previous year examinations. Practice solving these papers to improve your time management and problem-solving abilities.
+• Collaborate and Discuss: Engage in group discussions or join study circles with fellow students. Explaining concepts to others and discussing different approaches can enhance your understanding and broaden your perspective.
+• Stay Updated: Keep yourself updated with the latest advancements in the field of Informatics Practices. Follow technology blogs, subscribe to relevant newsletters, and explore emerging trends to stay ahead.
+• Provide students with the knowledge and skills they need to use information technology effectively in their personal and professional lives.
+• Help students develop critical thinking and problem-solving skills.
+• Prepare students for further studies in computer science or related fields.
+• Raise awareness of the social and ethical implications of the use of technology.
+• Data handling using Python
+• Database query using SQL
+• Introduction to computer networks
+• Societal impacts
+• 30% theory
+• 70% practical
+
+**CBSE Informatics Practices Syllabus for Class 12 (2023-24)**
+** IP Class 12 Syllabus**
+**Unit No**
+**Unit Name**
+**Marks**
+**Periods Theory**
+**Periods Practical**
+**Total Period**
+**Unit 2: Database Query using SQL**
+**practical component**
+** theory component **
+**Understand the Concepts**
+**Practice Regularly**
+**Review Previous Year Question Papers**
+**Collaborate and Discuss:**
+**Stay Updated: **
+**CBSE Class 12 Informatics Practices Syllabus**
